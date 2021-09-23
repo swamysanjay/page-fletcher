@@ -1,0 +1,22 @@
+{
+  "name": "page-fletcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swamysanjay/page-fletcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swamysanjay/page-fletcher/issues"
+  },
+  "homepage": "https://github.com/swamysanjay/page-fletcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
